@@ -1,5 +1,7 @@
 # ECHO 
 
+### THIS IS AN ARCHIVED FIRST PROTOTYPE
+
 ## Setup (POSIX SYSTEMS)
 First, build echo with either of the following options:
 ```bash
